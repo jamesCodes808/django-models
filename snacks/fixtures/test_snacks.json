@@ -1,0 +1,17 @@
+[
+  {
+    "model": "app.snack",
+    "pk": 1,
+    "fields": {
+      "name": "Chips",
+      "description": "Salty and crunchy",
+      "purchaser": "Alice"    }
+  },
+  {    "model": "app.snack",
+    "pk": 2,
+    "fields": {
+      "name": "Chocolate",
+      "description": "Sweet and rich",
+      "purchaser": "Bob"    }
+  }
+]
